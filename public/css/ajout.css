@@ -1,0 +1,16 @@
+.corpsConn {
+    width: 80%;
+}
+.formulaire{
+    background-color: rgba(0, 0, 255, 0.37);
+   padding: 10px;
+}
+
+.divGen{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 15px;
+}
